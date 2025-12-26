@@ -4,7 +4,7 @@
 // @version      4.1
 // @description  Fixes the 'k' to 'n' server error across all known mirror domains using the confirmed working match structure.
 // @author       You
-// @license       Open
+// @license      MPL-2.0
 // @match        *://ato.to/*
 // @match        *://dto.to/*
 // @match        *://fto.to/*
